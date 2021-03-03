@@ -6,7 +6,7 @@ Android Version 5
 
 
 <div>
-<img src="Screen/mann.JPEG" alt="Category" width="280" height="500" />
+<img blob/main="Screen/mann.JPEG" alt="Category" width="280" height="500" />
 <img src="Screen/many.JPEG" alt="Category" width="280" height="500" />
 <img src="Screen/bos.JPEG" alt="Interface" width="280" height="500"/>
 <img src="Screen/he.JPEG" alt="Your Score" width="280" height="500"/>
