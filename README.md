@@ -14,5 +14,5 @@ Android Version 5
 <img src="Screens/ehh.JPEG" alt="Your Score" width="280" height="500"/>
 <img src="Screens/look.JPEG" alt="Your Score" width="280" height="500"/>
 <img src="Screens/anzr.JPEG" alt="Your Score" width="280" height="500"/>
-<img src="Screens/trr.JPEG" alt="Your Score" width="280" height="500"/>
+<img src="Screens/trr.png" alt="Your Score" width="280" height="500"/>
 </div>
