@@ -5,8 +5,8 @@ Android Version 5
 
 
 
-<div>
-<img https://github.com/Mina-Sameh55/Corona-test/blob/main/Screen/mann.jpeg alt="Category" width="280" height="500" />
+
+[intro]: https://github.com/Mina-Sameh55/Corona-test/blob/main/Screen/mann.jpeg
 <img src="Screen/many.JPEG" alt="Category" width="280" height="500" />
 <img src="Screen/bos.JPEG" alt="Interface" width="280" height="500"/>
 <img src="Screen/he.JPEG" alt="Your Score" width="280" height="500"/>
@@ -15,4 +15,4 @@ Android Version 5
 <img src="Screen/look.JPEG" alt="Your Score" width="280" height="500"/>
 <img src="Screen/anzr.JPEG" alt="Your Score" width="280" height="500"/>
 <img src="Screen/trr.png" alt="Your Score" width="280" height="500"/>
-</div>
+
