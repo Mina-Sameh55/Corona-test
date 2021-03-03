@@ -17,5 +17,6 @@ ScreenShots:
 </div>
 
 Any Questions or Code
-Gamil : minasameh996@gmail.cm
+Gamil : minasameh996@gmail.com 
+
 Number :01279463889
